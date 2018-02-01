@@ -1,0 +1,5 @@
+1 tableViewCell 2 1
+2 tableViewCellContentView 3|4|5 2
+3 imageView 0 3
+4 imageView 0 4
+5 label 0 5

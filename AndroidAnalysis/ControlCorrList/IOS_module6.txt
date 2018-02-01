@@ -1,0 +1,7 @@
+64 View 65 34
+65 View 66|67|68|69|70 49
+66 View 0 52
+67 Label 0 54
+68 Label 0 55
+69 Label 0 57
+70 View 0 58

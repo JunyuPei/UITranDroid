@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="支付宝" label="支付宝" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="145">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="64">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="1" y="20" width="256" height="44">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="10" y="28" width="238" height="28">
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="UIButton_onClicked" label="信用借款：蚂蚁借呗" enabled="true" visible="true" x="10" y="28" width="210" height="28"/>
+                          <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIButton_onClickedVoiceIcon" label="语音助手" enabled="true" visible="true" x="219" y="28" width="29" height="28"/>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeOther>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="257" y="20" width="53" height="44">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="257" y="20" width="21" height="44">
+                          <XCUIElementTypeButton type="XCUIElementTypeButton" name="AUBaseButton_onClicked:" label="通讯录" enabled="true" visible="true" x="249" y="20" width="37" height="44"/>
+                        </XCUIElementTypeOther>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="294" y="20" width="16" height="44">
+                          <XCUIElementTypeButton type="XCUIElementTypeButton" name="AUBaseButton_onClicked:" label="更多" enabled="true" visible="true" x="286" y="20" width="32" height="44"/>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="320" height="81">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="320" height="81">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="扫一扫" label="扫一扫" enabled="true" visible="true" x="0" y="64" width="80" height="81"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="付钱" label="付钱" enabled="true" visible="true" x="80" y="64" width="80" height="81"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="收钱" label="收钱" enabled="true" visible="true" x="160" y="64" width="80" height="81"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="卡包" label="卡包" enabled="true" visible="true" x="240" y="64" width="80" height="81"/>
+                      </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                  </XCUIElementTypeOther>
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                    <XCUIElementTypeTable type="XCUIElementTypeTable" enabled="true" visible="true" x="0" y="0" width="320" height="519">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="323" width="320" height="0">
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="false" x="0" y="323" width="320" height="0"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="323" width="320" height="0"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="323" width="320" height="0"/>
+                      </XCUIElementTypeOther>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="323" width="320" height="8"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="331" width="320" height="1"/>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="服务提醒 余额宝收益到账啦 你有1个新的快递信息" label="服务提醒 余额宝收益到账啦 你有1个新的快递信息" enabled="true" visible="true" x="0" y="331" width="320" height="66">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="331" width="320" height="58">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="余额宝收益到账啦" name="余额宝收益到账啦" label="余额宝收益到账啦" enabled="true" visible="true" x="87" y="341" width="93" height="17"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="11小时前" name="11小时前" label="11小时前" enabled="true" visible="true" x="184" y="341" width="48" height="17"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="你有1个新的快递信息" name="你有1个新的快递信息" label="你有1个新的快递信息" enabled="true" visible="true" x="87" y="362" width="110" height="17"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="1天前" name="1天前" label="1天前" enabled="true" visible="true" x="201" y="362" width="31" height="17"/>
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="303" y="353" width="7" height="13"/>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="396" width="320" height="1"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="396" width="320" height="1"/>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name="       " label="       " enabled="true" visible="true" x="0" y="396" width="320" height="87">
+                        <XCUIElementTypeScrollView type="XCUIElementTypeScrollView" enabled="true" visible="true" x="0" y="396" width="320" height="79">
+                          <XCUIElementTypeImage type="XCUIElementTypeImage" name="推荐广告" label="推荐广告" enabled="true" visible="false" x="-320" y="396" width="320" height="79"/>
+                          <XCUIElementTypeImage type="XCUIElementTypeImage" name="推荐广告" label="推荐广告" enabled="true" visible="true" x="0" y="396" width="320" height="79"/>
+                          <XCUIElementTypeImage type="XCUIElementTypeImage" name="推荐广告" label="推荐广告" enabled="true" visible="false" x="320" y="396" width="320" height="79"/>
+                          <XCUIElementTypeImage type="XCUIElementTypeImage" name="推荐广告" label="推荐广告" enabled="true" visible="false" x="-640" y="396" width="320" height="79"/>
+                        </XCUIElementTypeScrollView>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="482" width="320" height="1"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="482" width="320" height="1"/>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="482" width="320" height="119">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="482" width="320" height="111">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="惠支付" name="惠支付" label="惠支付" enabled="true" visible="true" x="19" y="489" width="301" height="20"/>
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="48元兑换券 万宁" label="48元兑换券 万宁" enabled="true" visible="true" x="0" y="516" width="160" height="77"/>
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="发红包赚赏金 速瓜分10亿赏金" label="发红包赚赏金 速瓜分10亿赏金" enabled="true" visible="true" x="161" y="516" width="160" height="77"/>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="518" width="320" height="1"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="600" width="320" height="1"/>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="600" width="320" height="120">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="323" width="320" height="111">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="生活服务" name="生活服务" label="生活服务" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="一键交水电费 躺在家里就能办哟" label="一键交水电费 躺在家里就能办哟" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="你的年龄 睡多长时间才刚好" label="你的年龄 睡多长时间才刚好" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="600" width="320" height="1"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="719" width="320" height="1"/>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" name=" 天猫年货节   最高8888元   " label=" 天猫年货节   最高8888元   " enabled="true" visible="false" x="0" y="719" width="320" height="151">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="323" width="320" height="150">
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="天猫年货节" name="天猫年货节" label="天猫年货节" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="最高8888元" name="最高8888元" label="最高8888元" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="限量款买就返红包" name="限量款买就返红包" label="限量款买就返红包" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="719" width="320" height="1"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="CLoadMoreView_clickAction:" label="我是有底线的" enabled="true" visible="false" x="0" y="869" width="320" height="76"/>
+                    </XCUIElementTypeTable>
+                  </XCUIElementTypeOther>
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="145" width="320" height="178">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="转账" label="转账" enabled="true" visible="true" x="0" y="145" width="80" height="59"/>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="红包" label="红包" enabled="true" visible="true" x="80" y="145" width="80" height="59"/>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="电影票" label="电影票" enabled="true" visible="true" x="160" y="145" width="80" height="59"/>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="火车票机票" label="火车票机票" enabled="true" visible="true" x="240" y="145" width="80" height="59"/>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="校园工作" label="校园工作" enabled="true" visible="true" x="0" y="203" width="80" height="59"/>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="记账本" label="记账本" enabled="true" visible="true" x="80" y="203" width="80" height="59"/>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="饿了么外卖" label="饿了么外卖" enabled="true" visible="true" x="160" y="203" width="80" height="59"/>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="理财小工具" label="理财小工具" enabled="true" visible="true" x="240" y="203" width="80" height="59"/>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="收钱" label="收钱" enabled="true" visible="true" x="0" y="262" width="80" height="59"/>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="天猫超市" label="天猫超市" enabled="true" visible="true" x="80" y="262" width="80" height="59"/>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="余额宝" label="余额宝" enabled="true" visible="true" x="160" y="262" width="80" height="59"/>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="更多" label="更多" enabled="true" visible="true" x="240" y="262" width="80" height="59"/>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+            <XCUIElementTypeTabBar type="XCUIElementTypeTabBar" enabled="true" visible="true" x="0" y="519" width="320" height="49">
+              <XCUIElementTypeButton type="XCUIElementTypeButton" value="1" name="UITabBarButton_Alipay" label="首页" enabled="true" visible="true" x="2" y="520" width="60" height="48"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="UITabBarButton_Fortune" label="财富" enabled="true" visible="true" x="66" y="520" width="60" height="48"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="UITabBarButton_Koubei" label="口碑" enabled="true" visible="true" x="130" y="520" width="60" height="48"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="UITabBarButton_Friends" label="朋友" enabled="true" visible="true" x="194" y="520" width="60" height="48"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="UITabBarButton_Assets" label="我的" enabled="true" visible="true" x="258" y="520" width="60" height="48"/>
+            </XCUIElementTypeTabBar>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeStatusBar type="XCUIElementTypeStatusBar" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="20"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="无 SIM 卡" label="无 SIM 卡" enabled="true" visible="true" x="6" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" value="SSID" name="3 格（共 3 格 Wi-Fi 信号）" label="3 格（共 3 格 Wi-Fi 信号）" enabled="true" visible="true" x="64" y="0" width="15" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="下午3:52" label="下午3:52" enabled="true" visible="true" x="136" y="0" width="52" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="方向已锁定" label="方向已锁定" enabled="true" visible="true" x="215" y="0" width="12" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="蓝牙已连接" label="蓝牙已连接" enabled="true" visible="true" x="233" y="0" width="7" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%, 正在充电" label="电池电量：100%, 正在充电" enabled="true" visible="true" x="246" y="0" width="69" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%" label="电池电量：100%" enabled="true" visible="false" x="246" y="0" width="31" height="20"/>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeStatusBar>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>

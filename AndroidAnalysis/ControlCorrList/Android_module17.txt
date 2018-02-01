@@ -1,0 +1,7 @@
+7 RelativeLayout 8 
+8 RelativeLayout 9|10 
+9 ImageButton 
+10 RelativeLayout 11|12|13 
+11 View 
+12 ImageView 
+13 EditText 

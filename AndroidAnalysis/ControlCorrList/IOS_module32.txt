@@ -1,0 +1,7 @@
+86 View 87|90|91|92 4
+87 Button 88|89 86
+88 ImageView 0 87
+89 ImageView 0 88
+90 Label 0 90
+91 Label 0 92
+92 View 0 93

@@ -1,0 +1,5 @@
+1 view 2|3|4|5 1
+2 textField 0 2
+3 textField 0 3
+4 button 0 4
+5 button 0 5

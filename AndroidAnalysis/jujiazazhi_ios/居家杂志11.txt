@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="家居杂志" label="家居杂志" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+              <XCUIElementTypeImage type="XCUIElementTypeImage" name="leftside_shadow_bg.png" enabled="true" visible="false" x="-10" y="0" width="10" height="568"/>
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="20" width="320" height="548">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="20" width="320" height="44">
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="会员福利" name="会员福利" label="会员福利" enabled="true" visible="true" x="60" y="20" width="200" height="44"/>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="button browser turn left deep" label="button browser turn left deep" enabled="true" visible="true" x="10" y="30" width="25" height="25"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="63" width="320" height="1"/>
+                      </XCUIElementTypeOther>
+                      <XCUIElementTypeTable type="XCUIElementTypeTable" enabled="true" visible="true" x="0" y="64" width="320" height="460">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="注册成为会员，即可享有以下福利：" enabled="true" visible="true" x="0" y="64" width="320" height="165">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="注册成为会员，即可享有以下福利：" name="注册成为会员，即可享有以下福利：" label="注册成为会员，即可享有以下福利：" enabled="true" visible="true" x="12" y="80" width="320" height="16"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="会员活动" name="会员活动" label="会员活动" enabled="true" visible="true" x="52" y="106" width="75" height="37"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="优先资格获取活动名额" name="优先资格获取活动名额" label="优先资格获取活动名额" enabled="true" visible="true" x="139" y="106" width="180" height="37"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="会员优惠" name="会员优惠" label="会员优惠" enabled="true" visible="true" x="52" y="143" width="75" height="37"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="免费领取品牌优惠券" name="免费领取品牌优惠券" label="免费领取品牌优惠券" enabled="true" visible="true" x="139" y="143" width="180" height="37"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="免费试用" name="免费试用" label="免费试用" enabled="true" visible="true" x="52" y="180" width="75" height="37"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="免费申请试用家居产品" name="免费申请试用家居产品" label="免费申请试用家居产品" enabled="true" visible="true" x="139" y="180" width="180" height="37"/>
+                        </XCUIElementTypeOther>
+                        <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="229" width="320" height="255">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="★有奖活动★这个圣诞，把家交给孩子们！" name="★有奖活动★这个圣诞，把家交给孩子们！" label="★有奖活动★这个圣诞，把家交给孩子们！" enabled="true" visible="false" x="12" y="455" width="296" height="18"/>
+                          <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="true" x="0" y="229" width="320" height="255"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="会员活动" name="会员活动" label="会员活动" enabled="true" visible="true" x="247" y="228" width="60" height="20"/>
+                        </XCUIElementTypeCell>
+                        <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="484" width="320" height="255">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="★会员福利★分享你最喜欢的收纳产品，拿精美礼品！" name="★会员福利★分享你最喜欢的收纳产品，拿精美礼品！" label="★会员福利★分享你最喜欢的收纳产品，拿精美礼品！" enabled="true" visible="false" x="12" y="710" width="296" height="18"/>
+                          <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="true" x="0" y="484" width="320" height="255"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="会员活动" name="会员活动" label="会员活动" enabled="true" visible="true" x="247" y="483" width="60" height="20"/>
+                        </XCUIElementTypeCell>
+                        <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="739" width="320" height="255">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="★会员福利★会员免积分领糖村“无门槛20元优惠券”" name="★会员福利★会员免积分领糖村“无门槛20元优惠券”" label="★会员福利★会员免积分领糖村“无门槛20元优惠券”" enabled="true" visible="false" x="0" y="64" width="296" height="18"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="会员活动" name="会员活动" label="会员活动" enabled="true" visible="false" x="0" y="64" width="60" height="20"/>
+                        </XCUIElementTypeCell>
+                        <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="994" width="320" height="255">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="★会员福利★PChouse家居杂志请你骑小黄车了！" name="★会员福利★PChouse家居杂志请你骑小黄车了！" label="★会员福利★PChouse家居杂志请你骑小黄车了！" enabled="true" visible="false" x="0" y="64" width="296" height="18"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="会员活动" name="会员活动" label="会员活动" enabled="true" visible="false" x="0" y="64" width="60" height="20"/>
+                        </XCUIElementTypeCell>
+                        <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1249" width="320" height="255">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="★免费试用★扫地机器人、全屋焕新服务免费试用" name="★免费试用★扫地机器人、全屋焕新服务免费试用" label="★免费试用★扫地机器人、全屋焕新服务免费试用" enabled="true" visible="false" x="0" y="64" width="296" height="18"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="免费试用" name="免费试用" label="免费试用" enabled="true" visible="false" x="0" y="64" width="60" height="20"/>
+                        </XCUIElementTypeCell>
+                        <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1504" width="320" height="255">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="★会员福利★乐纯专属20元优惠券免费领！" name="★会员福利★乐纯专属20元优惠券免费领！" label="★会员福利★乐纯专属20元优惠券免费领！" enabled="true" visible="false" x="0" y="64" width="296" height="18"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="会员活动" name="会员活动" label="会员活动" enabled="true" visible="false" x="0" y="64" width="60" height="20"/>
+                        </XCUIElementTypeCell>
+                        <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1759" width="320" height="255">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="★会员福利★家居杂志注册会员0元购小风扇" name="★会员福利★家居杂志注册会员0元购小风扇" label="★会员福利★家居杂志注册会员0元购小风扇" enabled="true" visible="false" x="0" y="64" width="296" height="18"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="会员活动" name="会员活动" label="会员活动" enabled="true" visible="false" x="0" y="64" width="60" height="20"/>
+                        </XCUIElementTypeCell>
+                        <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="2014" width="320" height="255">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="★线下活动★杂志君邀你参加上海亲子收纳活动" name="★线下活动★杂志君邀你参加上海亲子收纳活动" label="★线下活动★杂志君邀你参加上海亲子收纳活动" enabled="true" visible="false" x="0" y="64" width="296" height="18"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="会员活动" name="会员活动" label="会员活动" enabled="true" visible="false" x="0" y="64" width="60" height="20"/>
+                        </XCUIElementTypeCell>
+                        <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="2269" width="320" height="255">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="★有奖活动★分享儿童房布置tips，赢精美礼品！" name="★有奖活动★分享儿童房布置tips，赢精美礼品！" label="★有奖活动★分享儿童房布置tips，赢精美礼品！" enabled="true" visible="false" x="0" y="64" width="296" height="18"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="会员活动" name="会员活动" label="会员活动" enabled="true" visible="false" x="0" y="64" width="60" height="20"/>
+                        </XCUIElementTypeCell>
+                        <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="2524" width="320" height="255">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="★线下活动★参加周末女性讲座，还有大奖等你拿哦！" name="★线下活动★参加周末女性讲座，还有大奖等你拿哦！" label="★线下活动★参加周末女性讲座，还有大奖等你拿哦！" enabled="true" visible="false" x="0" y="64" width="296" height="18"/>
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="会员活动" name="会员活动" label="会员活动" enabled="true" visible="false" x="0" y="64" width="60" height="20"/>
+                        </XCUIElementTypeCell>
+                      </XCUIElementTypeTable>
+                    </XCUIElementTypeOther>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="135" y="246" width="50" height="76">
+                      <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" x="135" y="246" width="50" height="76"/>
+                    </XCUIElementTypeOther>
+                    <XCUIElementTypeButton type="XCUIElementTypeButton" name="如何成为会员？" label="如何成为会员？" enabled="true" visible="true" x="0" y="524" width="320" height="44"/>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="568" width="320" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeStatusBar type="XCUIElementTypeStatusBar" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="20"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="无 SIM 卡" label="无 SIM 卡" enabled="true" visible="true" x="6" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" value="SSID" name="3 格（共 3 格 Wi-Fi 信号）" label="3 格（共 3 格 Wi-Fi 信号）" enabled="true" visible="true" x="64" y="0" width="15" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="下午4:44" label="下午4:44" enabled="true" visible="true" x="136" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="方向已锁定" label="方向已锁定" enabled="true" visible="true" x="215" y="0" width="12" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="蓝牙已连接" label="蓝牙已连接" enabled="true" visible="true" x="233" y="0" width="7" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%, 使用交流电源" label="电池电量：100%, 使用交流电源" enabled="true" visible="true" x="246" y="0" width="69" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%" label="电池电量：100%" enabled="true" visible="false" x="246" y="0" width="31" height="20"/>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeStatusBar>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>

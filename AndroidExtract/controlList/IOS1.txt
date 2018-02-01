@@ -1,0 +1,4 @@
+1 tableViewCell 2 1
+2 view 3|4 2
+3 label 0 3
+4 button 0 4

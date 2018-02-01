@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="支付宝" label="支付宝" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeNavigationBar type="XCUIElementTypeNavigationBar" name="支付设置" enabled="true" visible="true" x="0" y="20" width="320" height="44">
+        <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIButton_doClickNaviLeftAction:" label="返回" enabled="true" visible="true" x="16" y="20" width="60" height="44"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="支付设置" label="支付设置" enabled="true" visible="true" x="121" y="30" width="78" height="24"/>
+      </XCUIElementTypeNavigationBar>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+            <XCUIElementTypeTable type="XCUIElementTypeTable" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+              <XCUIElementTypeAny type="XCUIElementTypeAny" enabled="true" visible="false" x="inf" y="inf" width="0" height="0"/>
+              <XCUIElementTypeAny type="XCUIElementTypeAny" enabled="true" visible="false" x="inf" y="inf" width="0" height="0">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="84" width="320" height="1"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="127" width="320" height="1"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="扣款顺序" name="扣款顺序" label="扣款顺序" enabled="true" visible="true" x="15" y="96" width="70" height="21"/>
+                <XCUIElementTypeAny type="XCUIElementTypeAny" enabled="true" visible="false" x="inf" y="inf" width="0" height="0">
+                  <XCUIElementTypeAny type="XCUIElementTypeAny" enabled="true" visible="false" x="inf" y="inf" width="0" height="0"/>
+                </XCUIElementTypeAny>
+              </XCUIElementTypeAny>
+              <XCUIElementTypeAny type="XCUIElementTypeAny" enabled="true" visible="false" x="inf" y="inf" width="0" height="0"/>
+              <XCUIElementTypeAny type="XCUIElementTypeAny" enabled="true" visible="false" x="inf" y="inf" width="0" height="0"/>
+              <XCUIElementTypeAny type="XCUIElementTypeAny" enabled="true" visible="false" x="inf" y="inf" width="0" height="0">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="148" width="320" height="1"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="191" width="320" height="2"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="免密支付/自动扣款" name="免密支付/自动扣款" label="免密支付/自动扣款" enabled="true" visible="true" x="15" y="160" width="144" height="21"/>
+                <XCUIElementTypeAny type="XCUIElementTypeAny" enabled="true" visible="false" x="inf" y="inf" width="0" height="0">
+                  <XCUIElementTypeAny type="XCUIElementTypeAny" enabled="true" visible="false" x="inf" y="inf" width="0" height="0"/>
+                </XCUIElementTypeAny>
+              </XCUIElementTypeAny>
+              <XCUIElementTypeAny type="XCUIElementTypeAny" enabled="true" visible="false" x="inf" y="inf" width="0" height="0"/>
+            </XCUIElementTypeTable>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="0" height="0">
+      <XCUIElementTypeImage type="XCUIElementTypeImage" name="AlipaySDK.bundle/alipay_msp_loadinglogo" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+      <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="支付宝" name="支付宝" label="支付宝" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="568" width="320" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeStatusBar type="XCUIElementTypeStatusBar" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="20"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="无 SIM 卡" label="无 SIM 卡" enabled="true" visible="true" x="6" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" value="SSID" name="3 格（共 3 格 Wi-Fi 信号）" label="3 格（共 3 格 Wi-Fi 信号）" enabled="true" visible="true" x="64" y="0" width="15" height="20"/>
+        <XCUIElementTypeAny type="XCUIElementTypeAny" enabled="true" visible="false" x="inf" y="inf" width="0" height="0"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="下午3:58" label="下午3:58" enabled="true" visible="true" x="136" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="方向已锁定" label="方向已锁定" enabled="true" visible="true" x="215" y="0" width="12" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="蓝牙已连接" label="蓝牙已连接" enabled="true" visible="true" x="233" y="0" width="7" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%, 正在充电" label="电池电量：100%, 正在充电" enabled="true" visible="true" x="246" y="0" width="69" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%" label="电池电量：100%" enabled="true" visible="false" x="246" y="0" width="31" height="20"/>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeStatusBar>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>

@@ -1,0 +1,6 @@
+29 View 30|33|34 44
+30 Button 31|32 46
+31 ImageView 0 47
+32 ImageView 0 48
+33 Label 0 51
+34 Label 0 52

@@ -1,0 +1,7 @@
+79 View 80|83|84|85 43
+80 Button 81|82 44
+81 ImageView 0 77
+82 ImageView 0 80
+83 Label 0 81
+84 Label 0 83
+85 View 0 84

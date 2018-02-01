@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="家居杂志" label="家居杂志" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+              <XCUIElementTypeImage type="XCUIElementTypeImage" name="leftside_shadow_bg.png" enabled="true" visible="false" x="-10" y="0" width="10" height="568"/>
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="20" width="320" height="548">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="20" width="320" height="44">
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="如何成为会员" name="如何成为会员" label="如何成为会员" enabled="true" visible="true" x="60" y="20" width="200" height="44"/>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="button browser turn left deep" label="button browser turn left deep" enabled="true" visible="true" x="10" y="30" width="25" height="25"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="63" width="320" height="1"/>
+                      </XCUIElementTypeOther>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="320" height="460">
+                        <XCUIElementTypeWebView type="XCUIElementTypeWebView" enabled="true" visible="true" x="0" y="64" width="320" height="460">
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="320" height="1174">
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="PChouse家居杂志-如何注册成为会员" label="PChouse家居杂志-如何注册成为会员" enabled="true" visible="true" x="0" y="64" width="320" height="1174">
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="12" y="89" width="296" height="31">
+                                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="如何注册?" name="如何注册?" label="如何注册?" enabled="true" visible="true" x="12" y="92" width="90" height="24"/>
+                              </XCUIElementTypeOther>
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="12" y="135" width="296" height="150">
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="12" y="135" width="296" height="79">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="点击该页面底部的“立即登录/注册”按钮进入手机注册或到个人中心点击头像进入手机注册" name="点击该页面底部的“立即登录/注册”按钮进入手机注册或到个人中心点击头像进入手机注册" label="点击该页面底部的“立即登录/注册”按钮进入手机注册或到个人中心点击头像进入手机注册" enabled="true" visible="true" x="55" y="138" width="248" height="72"/>
+                                </XCUIElementTypeOther>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="12" y="225" width="296" height="60">
+                                  <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" x="12" y="225" width="296" height="60"/>
+                                </XCUIElementTypeOther>
+                              </XCUIElementTypeOther>
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="12" y="299" width="296" height="158">
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="12" y="299" width="296" height="53">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="输入手机号码、密码及验证码即注册成功" name="输入手机号码、密码及验证码即注册成功" label="输入手机号码、密码及验证码即注册成功" enabled="true" visible="true" x="55" y="302" width="241" height="46"/>
+                                </XCUIElementTypeOther>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="12" y="363" width="296" height="94">
+                                  <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" x="12" y="363" width="296" height="94"/>
+                                </XCUIElementTypeOther>
+                              </XCUIElementTypeOther>
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="12" y="507" width="296" height="31">
+                                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="注册之后可以做这些?" name="注册之后可以做这些?" label="注册之后可以做这些?" enabled="true" visible="true" x="12" y="510" width="190" height="24"/>
+                              </XCUIElementTypeOther>
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="12" y="553" width="296" height="211">
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="12" y="553" width="296" height="27">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="完成任务赚积分" name="完成任务赚积分" label="完成任务赚积分" enabled="true" visible="false" x="12" y="556" width="113" height="20"/>
+                                </XCUIElementTypeOther>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="12" y="591" width="296" height="173">
+                                  <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" x="12" y="591" width="296" height="173"/>
+                                </XCUIElementTypeOther>
+                              </XCUIElementTypeOther>
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="12" y="815" width="296" height="31">
+                                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="会员将得到?" name="会员将得到?" label="会员将得到?" enabled="true" visible="false" x="12" y="818" width="110" height="24"/>
+                              </XCUIElementTypeOther>
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="12" y="861" width="296" height="154">
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="12" y="861" width="296" height="53">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="成功注册即可享受会员活动、会员优惠、免费试用等多重福利" name="成功注册即可享受会员活动、会员优惠、免费试用等多重福利" label="成功注册即可享受会员活动、会员优惠、免费试用等多重福利" enabled="true" visible="false" x="55" y="864" width="241" height="46"/>
+                                </XCUIElementTypeOther>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="12" y="925" width="296" height="90">
+                                  <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" x="12" y="925" width="296" height="90"/>
+                                </XCUIElementTypeOther>
+                              </XCUIElementTypeOther>
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="12" y="1029" width="296" height="184">
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="12" y="1029" width="296" height="27">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="定期丰厚奖品兑换商城随心兑换" name="定期丰厚奖品兑换商城随心兑换" label="定期丰厚奖品兑换商城随心兑换" enabled="true" visible="false" x="55" y="1032" width="225" height="20"/>
+                                </XCUIElementTypeOther>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="12" y="1067" width="296" height="146">
+                                  <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" x="12" y="1067" width="296" height="146"/>
+                                </XCUIElementTypeOther>
+                              </XCUIElementTypeOther>
+                            </XCUIElementTypeOther>
+                          </XCUIElementTypeOther>
+                        </XCUIElementTypeWebView>
+                      </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="135" y="246" width="50" height="76">
+                      <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" x="135" y="246" width="50" height="76"/>
+                    </XCUIElementTypeOther>
+                    <XCUIElementTypeButton type="XCUIElementTypeButton" name="立即登录/注册" label="立即登录/注册" enabled="true" visible="true" x="0" y="524" width="320" height="44"/>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="568" width="320" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeStatusBar type="XCUIElementTypeStatusBar" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="20"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="无 SIM 卡" label="无 SIM 卡" enabled="true" visible="true" x="6" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" value="SSID" name="3 格（共 3 格 Wi-Fi 信号）" label="3 格（共 3 格 Wi-Fi 信号）" enabled="true" visible="true" x="64" y="0" width="15" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="下午4:45" label="下午4:45" enabled="true" visible="true" x="136" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="方向已锁定" label="方向已锁定" enabled="true" visible="true" x="215" y="0" width="12" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="蓝牙已连接" label="蓝牙已连接" enabled="true" visible="true" x="233" y="0" width="7" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%, 使用交流电源" label="电池电量：100%, 使用交流电源" enabled="true" visible="true" x="246" y="0" width="69" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%" label="电池电量：100%" enabled="true" visible="false" x="246" y="0" width="31" height="20"/>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeStatusBar>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>

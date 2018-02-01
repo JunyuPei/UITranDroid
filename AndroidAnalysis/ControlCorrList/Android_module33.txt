@@ -1,0 +1,53 @@
+3 FrameLayout 4 
+4 LinearLayout 5|17 
+5 RelativeLayout 6 
+6 RelativeLayout 7 
+7 RelativeLayout 8|9|13|14 
+8 ImageButton 
+9 RelativeLayout 10 
+10 RelativeLayout 11 
+11 RelativeLayout 12 
+12 TextView 
+13 View 
+14 RelativeLayout 15 
+15 FrameLayout 16 
+16 TextView 
+17 FrameLayout 18 
+18 FrameLayout 19 
+19 FrameLayout 20 
+20 FrameLayout 21|49 
+21 ScrollView 22 
+22 FrameLayout 23|27|48 
+23 FrameLayout 24|26 
+24 FrameLayout 25 
+25 TextView 
+26 TextView 
+27 FrameLayout 28 
+28 FrameLayout 29|30|34|35|39|40|41 
+29 FrameLayout 
+30 FrameLayout 31|32|33 
+31 ImageView 
+32 TextView 
+33 ImageView 
+34 FrameLayout 
+35 FrameLayout 36|37|38 
+36 ImageView 
+37 TextView 
+38 ImageView 
+39 FrameLayout 
+40 FrameLayout 
+41 FrameLayout 42|43|47 
+42 FrameLayout 
+43 FrameLayout 44|45|46 
+44 ImageView 
+45 TextView 
+46 ImageView 
+47 FrameLayout 
+48 FrameLayout 
+49 FrameLayout 50|53 
+50 FrameLayout 51|52 
+51 ImageView 
+52 TextView 
+53 FrameLayout 54|55 
+54 TextView 
+55 TextView 

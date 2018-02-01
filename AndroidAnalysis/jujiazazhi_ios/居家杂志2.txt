@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="家居杂志" label="家居杂志" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+              <XCUIElementTypeImage type="XCUIElementTypeImage" name="leftside_shadow_bg.png" enabled="true" visible="false" x="-10" y="0" width="10" height="568"/>
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="20" width="320" height="548">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="      攻略             晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9    晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10    晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22    晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23    晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" label="      攻略             晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9    晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10    晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22    晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23    晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" enabled="true" visible="true" x="0" y="20" width="320" height="548">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="     攻略             晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9    晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10    晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22    晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23    晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" label="     攻略             晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9    晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10    晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22    晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23    晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" enabled="true" visible="true" x="0" y="20" width="320" height="548">
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="    攻略             晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9    晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10    晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22    晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23    晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" label="    攻略             晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9    晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10    晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22    晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23    晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" enabled="true" visible="true" x="0" y="20" width="320" height="548">
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="   攻略             晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9    晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10    晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22    晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23    晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" label="   攻略             晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9    晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10    晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22    晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23    晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" enabled="true" visible="true" x="0" y="20" width="320" height="548">
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" name="  攻略    " label="  攻略    " enabled="true" visible="true" x="0" y="20" width="320" height="45"/>
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" name="        晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9    晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10    晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22    晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23    晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" label="        晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9    晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10    晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22    晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23    晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" enabled="true" visible="true" x="0" y="64" width="320" height="504">
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" name="       晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9    晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10    晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22    晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23    晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" label="       晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9    晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10    晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22    晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23    晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" enabled="true" visible="true" x="0" y="64" width="320" height="504">
+                                  <XCUIElementTypeScrollView type="XCUIElementTypeScrollView" enabled="true" visible="true" x="0" y="64" width="320" height="504">
+                                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="      晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9    晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10    晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22    晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23    晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" label="      晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9    晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10    晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22    晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23    晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" enabled="true" visible="true" x="0" y="64" width="320" height="1239">
+                                      <XCUIElementTypeOther type="XCUIElementTypeOther" name=" " label=" " enabled="true" visible="true" x="0" y="64" width="320" height="1">
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="-45" width="320" height="110">
+                                          <XCUIElementTypeImage type="XCUIElementTypeImage" name="assets/ios/Resources/PChouseMagazine4iPhone/image/refresh_loading_2@2x.png" enabled="true" visible="false" x="42" y="-37" width="235" height="94"/>
+                                        </XCUIElementTypeOther>
+                                      </XCUIElementTypeOther>
+                                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="   晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9" label="   晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9" enabled="true" visible="true" x="0" y="65" width="320" height="120">
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="  晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9" label="  晒攻略  细腻的木质感觉打造「自然风」生活  匠恒   9 9" enabled="true" visible="true" x="0" y="65" width="320" height="119"/>
+                                        <XCUIElementTypeImage type="XCUIElementTypeImage" name="assets/ios/Resources/PChouseMagazine4iPhone/image/bg_catalog_cell_sep-750w@2x.png" enabled="true" visible="true" x="0" y="184" width="375" height="1"/>
+                                      </XCUIElementTypeOther>
+                                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="   晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10" label="   晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10" enabled="true" visible="true" x="0" y="184" width="320" height="120">
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="  晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10" label="  晒攻略  为了轻松家务，装修时你还可以这么考虑！  匠恒   4 10" enabled="true" visible="true" x="0" y="184" width="320" height="120"/>
+                                        <XCUIElementTypeImage type="XCUIElementTypeImage" name="assets/ios/Resources/PChouseMagazine4iPhone/image/bg_catalog_cell_sep-750w@2x.png" enabled="true" visible="false" x="0" y="303" width="375" height="1"/>
+                                      </XCUIElementTypeOther>
+                                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="   晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22" label="   晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22" enabled="true" visible="true" x="0" y="303" width="320" height="120">
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="  晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22" label="  晒攻略  新房装修如何“偷”面积？不看你会后悔一辈子！  成都格大叔   16 22" enabled="true" visible="true" x="0" y="303" width="320" height="120"/>
+                                        <XCUIElementTypeImage type="XCUIElementTypeImage" name="assets/ios/Resources/PChouseMagazine4iPhone/image/bg_catalog_cell_sep-750w@2x.png" enabled="true" visible="true" x="0" y="422" width="375" height="1"/>
+                                      </XCUIElementTypeOther>
+                                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="   晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23" label="   晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23" enabled="true" visible="true" x="0" y="423" width="320" height="120">
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="  晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23" label="  晒攻略  先装地板还是先贴墙纸？不是你想的那样简单！  成都格大叔   11 23" enabled="true" visible="true" x="0" y="423" width="320" height="119"/>
+                                        <XCUIElementTypeImage type="XCUIElementTypeImage" name="assets/ios/Resources/PChouseMagazine4iPhone/image/bg_catalog_cell_sep-750w@2x.png" enabled="true" visible="true" x="0" y="542" width="375" height="1"/>
+                                      </XCUIElementTypeOther>
+                                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="   晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" label="   晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" enabled="true" visible="true" x="0" y="542" width="320" height="120">
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="  晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" label="  晒攻略  匠恒 | 能在有限的空间里有效使用的门  匠恒   1 0" enabled="true" visible="true" x="0" y="542" width="320" height="120"/>
+                                        <XCUIElementTypeImage type="XCUIElementTypeImage" name="assets/ios/Resources/PChouseMagazine4iPhone/image/bg_catalog_cell_sep-750w@2x.png" enabled="true" visible="false" x="0" y="661" width="375" height="1"/>
+                                      </XCUIElementTypeOther>
+                                    </XCUIElementTypeOther>
+                                  </XCUIElementTypeScrollView>
+                                </XCUIElementTypeOther>
+                              </XCUIElementTypeOther>
+                            </XCUIElementTypeOther>
+                          </XCUIElementTypeOther>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="568" width="320" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeStatusBar type="XCUIElementTypeStatusBar" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="20"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="无 SIM 卡" label="无 SIM 卡" enabled="true" visible="true" x="6" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" value="SSID" name="3 格（共 3 格 Wi-Fi 信号）" label="3 格（共 3 格 Wi-Fi 信号）" enabled="true" visible="true" x="64" y="0" width="15" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="下午4:41" label="下午4:41" enabled="true" visible="true" x="137" y="0" width="51" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="方向已锁定" label="方向已锁定" enabled="true" visible="true" x="215" y="0" width="12" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="蓝牙已连接" label="蓝牙已连接" enabled="true" visible="true" x="233" y="0" width="7" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%, 使用交流电源" label="电池电量：100%, 使用交流电源" enabled="true" visible="true" x="246" y="0" width="69" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%" label="电池电量：100%" enabled="true" visible="false" x="246" y="0" width="31" height="20"/>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeStatusBar>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>

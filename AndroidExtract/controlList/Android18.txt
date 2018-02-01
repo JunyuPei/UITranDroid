@@ -1,0 +1,5 @@
+1 FrameLayout 2
+2 LinearLayout 3|4|5
+3 ImageView
+4 TextView
+5 TextView

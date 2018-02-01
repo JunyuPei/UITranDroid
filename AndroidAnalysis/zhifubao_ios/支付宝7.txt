@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="支付宝" label="支付宝" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="64">
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIButton_back" label="返回" enabled="true" visible="true" x="0" y="20" width="79" height="44"/>
+              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="红包" name="红包" label="红包" enabled="true" visible="true" x="141" y="20" width="38" height="44"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="AUButton_onClicked:" label="红包记录" enabled="true" visible="true" x="224" y="20" width="96" height="44"/>
+            </XCUIElementTypeOther>
+            <XCUIElementTypeScrollView type="XCUIElementTypeScrollView" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+              <XCUIElementTypeImage type="XCUIElementTypeImage" name="RedEnvelope.bundle/re_root_alipay" enabled="true" visible="false" x="125" y="94" width="70" height="70"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="RERootViewButton_onButtonClicked:" label="普通红包" enabled="true" visible="true" x="41" y="194" width="238" height="36"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="RERootViewButton_onButtonClicked:" label="口令红包" enabled="true" visible="true" x="41" y="252" width="238" height="36"/>
+              <XCUIElementTypeImage type="XCUIElementTypeImage" name="RedEnvelope.bundle/re_root_split" enabled="true" visible="false" x="45" y="325" width="230" height="12"/>
+              <XCUIElementTypeTextField type="XCUIElementTypeTextField" value="输口令，领红包" name="口令" label="口令" enabled="true" visible="true" x="41" y="382" width="238" height="44">
+                <XCUIElementTypeTextField type="XCUIElementTypeTextField" value="输口令，领红包" name="口令" label="口令" enabled="true" visible="true" x="41" y="382" width="238" height="44"/>
+              </XCUIElementTypeTextField>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIButton_gameIntroHandler" label="口令红包规则" enabled="true" visible="true" x="96" y="436" width="128" height="21"/>
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="159" y="456" width="2" height="2"/>
+            </XCUIElementTypeScrollView>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="568" width="320" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeStatusBar type="XCUIElementTypeStatusBar" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="20"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="无 SIM 卡" label="无 SIM 卡" enabled="true" visible="true" x="6" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" value="SSID" name="3 格（共 3 格 Wi-Fi 信号）" label="3 格（共 3 格 Wi-Fi 信号）" enabled="true" visible="true" x="64" y="0" width="15" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="下午3:53" label="下午3:53" enabled="true" visible="true" x="136" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="方向已锁定" label="方向已锁定" enabled="true" visible="true" x="215" y="0" width="12" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="蓝牙已连接" label="蓝牙已连接" enabled="true" visible="true" x="233" y="0" width="7" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%, 正在充电" label="电池电量：100%, 正在充电" enabled="true" visible="true" x="246" y="0" width="69" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%" label="电池电量：100%" enabled="true" visible="false" x="246" y="0" width="31" height="20"/>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeStatusBar>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="家居杂志" label="家居杂志" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+              <XCUIElementTypeImage type="XCUIElementTypeImage" name="leftside_shadow_bg.png" enabled="true" visible="false" x="-10" y="0" width="10" height="568"/>
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="20" width="320" height="548">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="20" width="320" height="44">
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="关于我们" name="关于我们" label="关于我们" enabled="true" visible="true" x="60" y="20" width="200" height="44"/>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="button browser turn left deep" label="button browser turn left deep" enabled="true" visible="true" x="10" y="30" width="25" height="25"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="63" width="320" height="1"/>
+                      </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="320" height="504">
+                      <XCUIElementTypeWebView type="XCUIElementTypeWebView" enabled="true" visible="true" x="0" y="64" width="320" height="504">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="320" height="598">
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="家居杂志关于我们" label="家居杂志关于我们" enabled="true" visible="true" x="0" y="64" width="320" height="599">
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="35" y="227" width="250" height="21">
+                              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="4.0.0" name="4.0.0" label="4.0.0" enabled="true" visible="true" x="145" y="229" width="30" height="16"/>
+                            </XCUIElementTypeOther>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="20" y="267" width="280" height="81">
+                              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="《PChouse家居杂志》 是太平洋网络集团针对iPhone用户精心打造的一本免费iPhone移动杂志，也是国内最优质的家居iPhone移动杂志之一，每月发布1期。" name="《PChouse家居杂志》 是太平洋网络集团针对iPhone用户精心打造的一本免费iPhone移动杂志，也是国内最优质的家居iPhone移动杂志之一，每月发布1期。" label="《PChouse家居杂志》 是太平洋网络集团针对iPhone用户精心打造的一本免费iPhone移动杂志，也是国内最优质的家居iPhone移动杂志之一，每月发布1期。" enabled="true" visible="true" x="20" y="269" width="265" height="76"/>
+                            </XCUIElementTypeOther>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="20" y="357" width="280" height="81">
+                              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="杂志内容方面，每月设有精彩栏目，四十多篇精华文章，高清产品、家居场景组图尽情欣赏；20种以上互动展现新方式，给您最畅快的家居资讯阅读体验。" name="杂志内容方面，每月设有精彩栏目，四十多篇精华文章，高清产品、家居场景组图尽情欣赏；20种以上互动展现新方式，给您最畅快的家居资讯阅读体验。" label="杂志内容方面，每月设有精彩栏目，四十多篇精华文章，高清产品、家居场景组图尽情欣赏；20种以上互动展现新方式，给您最畅快的家居资讯阅读体验。" enabled="true" visible="true" x="20" y="359" width="275" height="76"/>
+                            </XCUIElementTypeOther>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="20" y="447" width="280" height="26">
+                              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Q 群: 227547365" name="Q 群: 227547365" label="Q 群: 227547365" enabled="true" visible="true" x="50" y="452" width="99" height="16"/>
+                            </XCUIElementTypeOther>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="20" y="472" width="280" height="26">
+                              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="微博: weibo.com/pchousemag" name="微博: weibo.com/pchousemag" label="微博: weibo.com/pchousemag" enabled="true" visible="true" x="50" y="477" width="178" height="16"/>
+                            </XCUIElementTypeOther>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="20" y="497" width="280" height="51">
+                              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="论坛:" name="论坛:" label="论坛:" enabled="true" visible="true" x="50" y="502" width="34" height="16"/>
+                              <XCUIElementTypeLink type="XCUIElementTypeLink" name="http://bbs.pchouse.com.cn/forum-6.html" label="http://bbs.pchouse.com.cn/forum-6.html" enabled="true" visible="true" x="50" y="502" width="235" height="41">
+                                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="http://bbs.pchouse.com.cn/forum-6.html" name="http://bbs.pchouse.com.cn/forum-6.html" label="http://bbs.pchouse.com.cn/forum-6.html" enabled="true" visible="true" x="50" y="502" width="235" height="41"/>
+                              </XCUIElementTypeLink>
+                            </XCUIElementTypeOther>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="20" y="547" width="280" height="36">
+                              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="违法和不良信息举报电话：020-38178288-4093" name="违法和不良信息举报电话：020-38178288-4093" label="违法和不良信息举报电话：020-38178288-4093" enabled="true" visible="true" x="20" y="564" width="275" height="16"/>
+                            </XCUIElementTypeOther>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="20" y="592" width="280" height="41">
+                              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="违法和不良信息举报邮箱：shenhezhiban@pconline.com.cn" name="违法和不良信息举报邮箱：shenhezhiban@pconline.com.cn" label="违法和不良信息举报邮箱：shenhezhiban@pconline.com.cn" enabled="true" visible="false" x="20" y="594" width="188" height="36"/>
+                            </XCUIElementTypeOther>
+                          </XCUIElementTypeOther>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeWebView>
+                    </XCUIElementTypeOther>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="568" width="320" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeStatusBar type="XCUIElementTypeStatusBar" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="20"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="无 SIM 卡" label="无 SIM 卡" enabled="true" visible="true" x="6" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" value="SSID" name="3 格（共 3 格 Wi-Fi 信号）" label="3 格（共 3 格 Wi-Fi 信号）" enabled="true" visible="true" x="64" y="0" width="15" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="下午4:45" label="下午4:45" enabled="true" visible="true" x="136" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="方向已锁定" label="方向已锁定" enabled="true" visible="true" x="215" y="0" width="12" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="蓝牙已连接" label="蓝牙已连接" enabled="true" visible="true" x="233" y="0" width="7" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%, 使用交流电源" label="电池电量：100%, 使用交流电源" enabled="true" visible="true" x="246" y="0" width="69" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%" label="电池电量：100%" enabled="true" visible="false" x="246" y="0" width="31" height="20"/>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeStatusBar>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>

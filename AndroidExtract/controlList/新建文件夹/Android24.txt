@@ -1,0 +1,5 @@
+1 FrameLayout 2
+2 FrameLayout 3|4|5
+3 TextView
+4 ProgressBar
+5 TextView

@@ -1,0 +1,6 @@
+1 FrameLayout 2
+2 FrameLayout 3|4|5|6
+3 TextView
+4 ImageView
+5 TextView
+6 ImageView

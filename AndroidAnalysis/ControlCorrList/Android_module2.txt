@@ -1,0 +1,6 @@
+18 LinearLayout 19 
+19 RelativeLayout 20 
+20 RelativeLayout 21|22 
+21 Button 
+22 LinearLayout 23 
+23 ImageView 

@@ -1,0 +1,7 @@
+1 view 2|5 1
+2 view 3|4 2
+3 textView 0 3
+4 activityIndicatorView 0 4
+5 view 6|7 5
+6 button 0 6
+7 button 0 7

@@ -1,0 +1,129 @@
+3 FrameLayout 4 
+4 FrameLayout 5 
+5 LinearLayout 6|14 
+6 RelativeLayout 7 
+7 RelativeLayout 8 
+8 RelativeLayout 9|10 
+9 ImageButton 
+10 RelativeLayout 11|12|13 
+11 View 
+12 ImageView 
+13 EditText 
+14 FrameLayout 15 
+15 v7 16|28|32|37|42|47|52|57|62|67|73|79|85|91|96|101|106|111|116|120|124|128 
+16 RelativeLayout 17|27 
+17 RelativeLayout 18|19|25|26 
+18 TextView 
+19 LinearLayout 20|21|22|23|24 
+20 ImageView 
+21 ImageView 
+22 ImageView 
+23 ImageView 
+24 ImageView 
+25 ImageView 
+26 Button 
+27 View 
+28 LinearLayout 29 
+29 LinearLayout 30|31 
+30 ImageView 
+31 TextView 
+32 FrameLayout 33|36 
+33 RelativeLayout 34|35 
+34 ImageView 
+35 TextView 
+36 RelativeLayout 
+37 FrameLayout 38|41 
+38 RelativeLayout 39|40 
+39 ImageView 
+40 TextView 
+41 RelativeLayout 
+42 FrameLayout 43|46 
+43 RelativeLayout 44|45 
+44 ImageView 
+45 TextView 
+46 RelativeLayout 
+47 FrameLayout 48|51 
+48 RelativeLayout 49|50 
+49 ImageView 
+50 TextView 
+51 RelativeLayout 
+52 FrameLayout 53|56 
+53 RelativeLayout 54|55 
+54 ImageView 
+55 TextView 
+56 RelativeLayout 
+57 FrameLayout 58|61 
+58 RelativeLayout 59|60 
+59 ImageView 
+60 TextView 
+61 RelativeLayout 
+62 LinearLayout 63|64 
+63 View 
+64 LinearLayout 65|66 
+65 ImageView 
+66 TextView 
+67 FrameLayout 68|72 
+68 RelativeLayout 69|70|71 
+69 ImageView 
+70 TextView 
+71 TextView 
+72 RelativeLayout 
+73 FrameLayout 74|78 
+74 RelativeLayout 75|76|77 
+75 ImageView 
+76 TextView 
+77 TextView 
+78 RelativeLayout 
+79 FrameLayout 80|84 
+80 RelativeLayout 81|82|83 
+81 ImageView 
+82 TextView 
+83 TextView 
+84 RelativeLayout 
+85 FrameLayout 86|90 
+86 RelativeLayout 87|88|89 
+87 ImageView 
+88 TextView 
+89 TextView 
+90 RelativeLayout 
+91 LinearLayout 92|93 
+92 View 
+93 LinearLayout 94|95 
+94 ImageView 
+95 TextView 
+96 FrameLayout 97|100 
+97 RelativeLayout 98|99 
+98 ImageView 
+99 TextView 
+100 RelativeLayout 
+101 FrameLayout 102|105 
+102 RelativeLayout 103|104 
+103 ImageView 
+104 TextView 
+105 RelativeLayout 
+106 FrameLayout 107|110 
+107 RelativeLayout 108|109 
+108 ImageView 
+109 TextView 
+110 RelativeLayout 
+111 FrameLayout 112|115 
+112 RelativeLayout 113|114 
+113 ImageView 
+114 TextView 
+115 RelativeLayout 
+116 FrameLayout 117|119 
+117 RelativeLayout 118 
+118 ImageView 
+119 RelativeLayout 
+120 FrameLayout 121|123 
+121 RelativeLayout 122 
+122 ImageView 
+123 RelativeLayout 
+124 FrameLayout 125|127 
+125 RelativeLayout 126 
+126 ImageView 
+127 RelativeLayout 
+128 FrameLayout 129|131 
+129 RelativeLayout 130 
+130 ImageView 
+131 RelativeLayout 

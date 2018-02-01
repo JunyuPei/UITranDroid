@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="家居杂志" label="家居杂志" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+              <XCUIElementTypeImage type="XCUIElementTypeImage" name="leftside_shadow_bg.png" enabled="true" visible="false" x="-10" y="0" width="10" height="568"/>
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="519">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="64">
+                      <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="发现" name="发现" label="发现" enabled="true" visible="true" x="0" y="20" width="320" height="44"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="63" width="320" height="1"/>
+                    </XCUIElementTypeOther>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="320" height="455">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="            进行中 加载更多" label="            进行中 加载更多" enabled="true" visible="true" x="0" y="64" width="320" height="455">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="          #桌  #金属  #客厅  #色彩  #灯  #现代  #住宅  更多     彳亍心情     #工业风  #色彩  #厨房 用艺术画和大胆的冰箱添加色彩感，加减法则运用自如。   3  30" label="          #桌  #金属  #客厅  #色彩  #灯  #现代  #住宅  更多     彳亍心情     #工业风  #色彩  #厨房 用艺术画和大胆的冰箱添加色彩感，加减法则运用自如。   3  30" enabled="true" visible="true" x="0" y="64" width="320" height="455">
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="         #桌  #金属  #客厅  #色彩  #灯  #现代  #住宅  更多     彳亍心情     #工业风  #色彩  #厨房 用艺术画和大胆的冰箱添加色彩感，加减法则运用自如。   3  30" label="         #桌  #金属  #客厅  #色彩  #灯  #现代  #住宅  更多     彳亍心情     #工业风  #色彩  #厨房 用艺术画和大胆的冰箱添加色彩感，加减法则运用自如。   3  30" enabled="true" visible="true" x="0" y="64" width="320" height="455">
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="        #桌  #金属  #客厅  #色彩  #灯  #现代  #住宅  更多     彳亍心情     #工业风  #色彩  #厨房 用艺术画和大胆的冰箱添加色彩感，加减法则运用自如。   3  30" label="        #桌  #金属  #客厅  #色彩  #灯  #现代  #住宅  更多     彳亍心情     #工业风  #色彩  #厨房 用艺术画和大胆的冰箱添加色彩感，加减法则运用自如。   3  30" enabled="true" visible="true" x="0" y="64" width="320" height="455">
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" name="       #桌  #金属  #客厅  #色彩  #灯  #现代  #住宅  更多     彳亍心情     #工业风  #色彩  #厨房 用艺术画和大胆的冰箱添加色彩感，加减法则运用自如。   3  30" label="       #桌  #金属  #客厅  #色彩  #灯  #现代  #住宅  更多     彳亍心情     #工业风  #色彩  #厨房 用艺术画和大胆的冰箱添加色彩感，加减法则运用自如。   3  30" enabled="true" visible="true" x="0" y="64" width="320" height="455">
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" name="      #桌  #金属  #客厅  #色彩  #灯  #现代  #住宅  更多     彳亍心情     #工业风  #色彩  #厨房 用艺术画和大胆的冰箱添加色彩感，加减法则运用自如。   3  30" label="      #桌  #金属  #客厅  #色彩  #灯  #现代  #住宅  更多     彳亍心情     #工业风  #色彩  #厨房 用艺术画和大胆的冰箱添加色彩感，加减法则运用自如。   3  30" enabled="true" visible="true" x="0" y="64" width="320" height="455">
+                                  <XCUIElementTypeScrollView type="XCUIElementTypeScrollView" enabled="true" visible="true" x="0" y="64" width="320" height="455">
+                                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="      进行中 加载更多" label="      进行中 加载更多" enabled="true" visible="true" x="0" y="64" width="320" height="455">
+                                      <XCUIElementTypeOther type="XCUIElementTypeOther" name=" " label=" " enabled="true" visible="true" x="0" y="64" width="320" height="1">
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="-46" width="320" height="111">
+                                          <XCUIElementTypeImage type="XCUIElementTypeImage" name="assets/ios/Resources/PChouseMagazine4iPhone/image/refresh_loading_3@2x.png" enabled="true" visible="false" x="42" y="-38" width="235" height="95"/>
+                                        </XCUIElementTypeOther>
+                                      </XCUIElementTypeOther>
+                                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="  #桌  #金属  #客厅  #色彩  #灯  #现代  #住宅  更多" label="  #桌  #金属  #客厅  #色彩  #灯  #现代  #住宅  更多" enabled="true" visible="true" x="0" y="64" width="320" height="95">
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name=" #桌" label=" #桌" enabled="true" visible="true" x="13" y="81" width="64" height="25"/>
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name=" #金属" label=" #金属" enabled="true" visible="true" x="89" y="81" width="65" height="25"/>
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name=" #客厅" label=" #客厅" enabled="true" visible="true" x="166" y="81" width="65" height="25"/>
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name=" #色彩" label=" #色彩" enabled="true" visible="true" x="243" y="81" width="64" height="25"/>
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name=" #灯" label=" #灯" enabled="true" visible="true" x="13" y="118" width="64" height="25"/>
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name=" #现代" label=" #现代" enabled="true" visible="true" x="89" y="118" width="65" height="25"/>
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name=" #住宅" label=" #住宅" enabled="true" visible="true" x="166" y="118" width="65" height="25"/>
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name=" 更多" label=" 更多" enabled="true" visible="true" x="243" y="118" width="64" height="25"/>
+                                      </XCUIElementTypeOther>
+                                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="    彳亍心情     #工业风  #色彩  #厨房 用艺术画和大胆的冰箱添加色彩感，加减法则运用自如。   3  30" label="    彳亍心情     #工业风  #色彩  #厨房 用艺术画和大胆的冰箱添加色彩感，加减法则运用自如。   3  30" enabled="true" visible="true" x="0" y="168" width="320" height="605"/>
+                                    </XCUIElementTypeOther>
+                                  </XCUIElementTypeScrollView>
+                                </XCUIElementTypeOther>
+                              </XCUIElementTypeOther>
+                            </XCUIElementTypeOther>
+                          </XCUIElementTypeOther>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+        <XCUIElementTypeTabBar type="XCUIElementTypeTabBar" enabled="true" visible="true" x="0" y="519" width="320" height="49">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="519" width="320" height="49">
+            <XCUIElementTypeButton type="XCUIElementTypeButton" name="button info" label="button info" enabled="true" visible="true" x="0" y="519" width="64" height="49"/>
+            <XCUIElementTypeButton type="XCUIElementTypeButton" name="button bookstore" label="button bookstore" enabled="true" visible="true" x="64" y="519" width="64" height="49"/>
+            <XCUIElementTypeButton type="XCUIElementTypeButton" value="1" name="button discover" label="button discover" enabled="true" visible="true" x="128" y="519" width="64" height="49"/>
+            <XCUIElementTypeButton type="XCUIElementTypeButton" name="button tryout" label="button tryout" enabled="true" visible="true" x="192" y="519" width="64" height="49"/>
+            <XCUIElementTypeButton type="XCUIElementTypeButton" name="button mycenter" label="button mycenter" enabled="true" visible="true" x="256" y="519" width="64" height="49"/>
+          </XCUIElementTypeOther>
+          <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="false" x="2" y="520" width="60" height="48"/>
+          <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="false" x="66" y="520" width="60" height="48"/>
+          <XCUIElementTypeButton type="XCUIElementTypeButton" value="1" enabled="true" visible="false" x="130" y="520" width="60" height="48"/>
+          <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="false" x="194" y="520" width="60" height="48"/>
+          <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="false" x="258" y="520" width="60" height="48"/>
+        </XCUIElementTypeTabBar>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="568" width="320" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeStatusBar type="XCUIElementTypeStatusBar" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="20"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="无 SIM 卡" label="无 SIM 卡" enabled="true" visible="true" x="6" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" value="SSID" name="3 格（共 3 格 Wi-Fi 信号）" label="3 格（共 3 格 Wi-Fi 信号）" enabled="true" visible="true" x="64" y="0" width="15" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="下午4:43" label="下午4:43" enabled="true" visible="true" x="136" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="方向已锁定" label="方向已锁定" enabled="true" visible="true" x="215" y="0" width="12" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="蓝牙已连接" label="蓝牙已连接" enabled="true" visible="true" x="233" y="0" width="7" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%, 使用交流电源" label="电池电量：100%, 使用交流电源" enabled="true" visible="true" x="246" y="0" width="69" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%" label="电池电量：100%" enabled="true" visible="false" x="246" y="0" width="31" height="20"/>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeStatusBar>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>

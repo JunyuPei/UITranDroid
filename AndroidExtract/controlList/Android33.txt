@@ -1,0 +1,12 @@
+1 FrameLayout 2|6|9|10|11|12
+2 FrameLayout 3|4|5
+3 TextView
+4 Button
+5 Button
+6 FrameLayout 7
+7 FrameLayout 8
+8 TextView
+9 model
+10 model
+11 model
+12 model

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="家居杂志" label="家居杂志" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+              <XCUIElementTypeImage type="XCUIElementTypeImage" name="leftside_shadow_bg.png" enabled="true" visible="false" x="-10" y="0" width="10" height="568"/>
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="519">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="20" width="320" height="44">
+                      <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="试用" name="试用" label="试用" enabled="true" visible="true" x="0" y="20" width="320" height="44"/>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="63" width="320" height="1"/>
+                    </XCUIElementTypeOther>
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="320" height="455">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="        试用活动    试用报告           距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请    " label="        试用活动    试用报告           距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请    " enabled="true" visible="true" x="0" y="64" width="320" height="455">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="       试用活动    试用报告           距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请    " label="       试用活动    试用报告           距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请    " enabled="true" visible="true" x="0" y="64" width="320" height="455">
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="      试用活动    试用报告           距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请    " label="      试用活动    试用报告           距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请    " enabled="true" visible="true" x="0" y="64" width="320" height="455">
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="     试用活动    试用报告           距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请    " label="     试用活动    试用报告           距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请    " enabled="true" visible="true" x="0" y="64" width="320" height="455">
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" name="    试用活动    试用报告  " label="    试用活动    试用报告  " enabled="true" visible="true" x="0" y="64" width="320" height="36">
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" name="   试用活动    试用报告 " label="   试用活动    试用报告 " enabled="true" visible="true" x="0" y="64" width="320" height="35">
+                                  <XCUIElementTypeOther type="XCUIElementTypeOther" name="  试用活动 " label="  试用活动 " enabled="true" visible="true" x="0" y="64" width="160" height="35"/>
+                                  <XCUIElementTypeOther type="XCUIElementTypeOther" name="  试用报告 " label="  试用报告 " enabled="true" visible="true" x="160" y="64" width="160" height="35"/>
+                                </XCUIElementTypeOther>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="99" width="320" height="1"/>
+                              </XCUIElementTypeOther>
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" name="        距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请    " label="        距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请    " enabled="true" visible="true" x="0" y="99" width="320" height="420">
+                                <XCUIElementTypeScrollView type="XCUIElementTypeScrollView" enabled="true" visible="true" x="0" y="99" width="320" height="420">
+                                  <XCUIElementTypeOther type="XCUIElementTypeOther" name="       距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请    " label="       距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请    " enabled="true" visible="true" x="0" y="99" width="640" height="420">
+                                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="      距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请" label="      距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请" enabled="true" visible="true" x="0" y="99" width="320" height="420">
+                                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="     距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请" label="     距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请" enabled="true" visible="true" x="0" y="99" width="320" height="420">
+                                        <XCUIElementTypeScrollView type="XCUIElementTypeScrollView" enabled="true" visible="true" x="0" y="99" width="320" height="420">
+                                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="    距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请" label="    距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请    距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请" enabled="true" visible="true" x="0" y="99" width="320" height="2300">
+                                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="   距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请" label="   距申请结束 24天   科沃斯扫地机器人DJ35  价值: 1899元 名额: 2 申请: 95  立即申请" enabled="true" visible="true" x="0" y="99" width="320" height="228"/>
+                                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="   距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请" label="   距申请结束 2天   科沃斯无线擦窗机器人WA30  价值: 3599元 名额: 2 申请: 1074  立即申请" enabled="true" visible="true" x="0" y="326" width="320" height="228"/>
+                                          </XCUIElementTypeOther>
+                                        </XCUIElementTypeScrollView>
+                                      </XCUIElementTypeOther>
+                                    </XCUIElementTypeOther>
+                                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="   " label="   " enabled="true" visible="false" x="320" y="99" width="320" height="420">
+                                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="  " label="  " enabled="true" visible="false" x="320" y="99" width="320" height="420">
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name=" " label=" " enabled="true" visible="false" x="320" y="99" width="320" height="420">
+                                          <XCUIElementTypeScrollView type="XCUIElementTypeScrollView" enabled="true" visible="false" x="320" y="99" width="320" height="420">
+                                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="320" y="99" width="320" height="1235"/>
+                                          </XCUIElementTypeScrollView>
+                                        </XCUIElementTypeOther>
+                                      </XCUIElementTypeOther>
+                                    </XCUIElementTypeOther>
+                                  </XCUIElementTypeOther>
+                                </XCUIElementTypeScrollView>
+                              </XCUIElementTypeOther>
+                            </XCUIElementTypeOther>
+                          </XCUIElementTypeOther>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+        <XCUIElementTypeTabBar type="XCUIElementTypeTabBar" enabled="true" visible="true" x="0" y="519" width="320" height="49">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="519" width="320" height="49">
+            <XCUIElementTypeButton type="XCUIElementTypeButton" name="button info" label="button info" enabled="true" visible="true" x="0" y="519" width="64" height="49"/>
+            <XCUIElementTypeButton type="XCUIElementTypeButton" name="button bookstore" label="button bookstore" enabled="true" visible="true" x="64" y="519" width="64" height="49"/>
+            <XCUIElementTypeButton type="XCUIElementTypeButton" name="button discover" label="button discover" enabled="true" visible="true" x="128" y="519" width="64" height="49"/>
+            <XCUIElementTypeButton type="XCUIElementTypeButton" value="1" name="button tryout" label="button tryout" enabled="true" visible="true" x="192" y="519" width="64" height="49"/>
+            <XCUIElementTypeButton type="XCUIElementTypeButton" name="button mycenter" label="button mycenter" enabled="true" visible="true" x="256" y="519" width="64" height="49"/>
+          </XCUIElementTypeOther>
+          <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="false" x="2" y="520" width="60" height="48"/>
+          <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="false" x="66" y="520" width="60" height="48"/>
+          <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="false" x="130" y="520" width="60" height="48"/>
+          <XCUIElementTypeButton type="XCUIElementTypeButton" value="1" enabled="true" visible="false" x="194" y="520" width="60" height="48"/>
+          <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="false" x="258" y="520" width="60" height="48"/>
+        </XCUIElementTypeTabBar>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="568" width="320" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeStatusBar type="XCUIElementTypeStatusBar" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="20"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="无 SIM 卡" label="无 SIM 卡" enabled="true" visible="true" x="6" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" value="SSID" name="3 格（共 3 格 Wi-Fi 信号）" label="3 格（共 3 格 Wi-Fi 信号）" enabled="true" visible="true" x="64" y="0" width="15" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="下午4:43" label="下午4:43" enabled="true" visible="true" x="136" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="方向已锁定" label="方向已锁定" enabled="true" visible="true" x="215" y="0" width="12" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="蓝牙已连接" label="蓝牙已连接" enabled="true" visible="true" x="233" y="0" width="7" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%, 使用交流电源" label="电池电量：100%, 使用交流电源" enabled="true" visible="true" x="246" y="0" width="69" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%" label="电池电量：100%" enabled="true" visible="false" x="246" y="0" width="31" height="20"/>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeStatusBar>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>

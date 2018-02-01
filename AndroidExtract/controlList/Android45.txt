@@ -1,0 +1,7 @@
+1 FrameLayout 2|5|7
+2 FrameLayout 3|4
+3 TextView
+4 Button
+5 FrameLayout 6
+6 TextView
+7 Button

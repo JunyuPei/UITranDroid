@@ -1,0 +1,12 @@
+8 LinearLayout 9|11|12|14 
+9 FrameLayout 10 
+10 TextView 
+11 View 
+12 RelativeLayout 13 
+13 TextView 
+14 RelativeLayout 15|17|19 
+15 FrameLayout 16 
+16 TextView 
+17 FrameLayout 18 
+18 ImageView 
+19 View 

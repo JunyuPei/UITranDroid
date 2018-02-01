@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="支付宝" label="支付宝" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="64">
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIButton_back" label="返回" enabled="true" visible="true" x="0" y="20" width="79" height="44"/>
+              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="个人收钱" name="个人收钱" label="个人收钱" enabled="true" visible="true" x="123" y="20" width="74" height="44"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="AUButton_onClicked:" label="更多" enabled="true" visible="true" x="268" y="20" width="52" height="44"/>
+            </XCUIElementTypeOther>
+            <XCUIElementTypeTable type="XCUIElementTypeTable" name="支付宝扫一扫，向我付钱, 领取收钱码贴纸,提现免费" label="支付宝扫一扫，向我付钱, 领取收钱码贴纸,提现免费" enabled="true" visible="true" x="0" y="64" width="320" height="504">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="13" y="70" width="294" height="399">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="13" y="70" width="294" height="72">
+                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="支付宝扫一扫，向我付钱" name="支付宝扫一扫，向我付钱" label="支付宝扫一扫，向我付钱" enabled="true" visible="true" x="13" y="115" width="294" height="21"/>
+                </XCUIElementTypeOther>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="51" y="142" width="218" height="232">
+                  <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" x="71" y="181" width="178" height="178">
+                    <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" x="139" y="249" width="42" height="42"/>
+                  </XCUIElementTypeImage>
+                </XCUIElementTypeOther>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="89" y="404" width="142" height="22">
+                  <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIButton_changeAmount" label="设置金额" enabled="true" visible="true" x="89" y="404" width="58" height="22"/>
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="160" y="407" width="1" height="16"/>
+                  <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIButton_onSaveImageButtonClicked:" label="保存图片" enabled="true" visible="true" x="173" y="404" width="58" height="22"/>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="领取收钱码贴纸,提现免费" label="领取收钱码贴纸,提现免费" enabled="true" visible="true" x="0" y="469" width="320" height="65"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIButton_onRecordButtonClicked:" label="收款记录" enabled="true" visible="true" x="131" y="551" width="58" height="40"/>
+            </XCUIElementTypeTable>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="568" width="320" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeStatusBar type="XCUIElementTypeStatusBar" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="20"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="无 SIM 卡" label="无 SIM 卡" enabled="true" visible="true" x="6" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" value="SSID" name="3 格（共 3 格 Wi-Fi 信号）" label="3 格（共 3 格 Wi-Fi 信号）" enabled="true" visible="true" x="64" y="0" width="15" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="下午3:52" label="下午3:52" enabled="true" visible="true" x="136" y="0" width="52" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="方向已锁定" label="方向已锁定" enabled="true" visible="true" x="215" y="0" width="12" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="蓝牙已连接" label="蓝牙已连接" enabled="true" visible="true" x="233" y="0" width="7" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%, 正在充电" label="电池电量：100%, 正在充电" enabled="true" visible="true" x="246" y="0" width="69" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%" label="电池电量：100%" enabled="true" visible="false" x="246" y="0" width="31" height="20"/>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeStatusBar>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>

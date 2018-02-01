@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="支付宝" label="支付宝" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="20"/>
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="64">
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIButton_onClickedLeftItem:" label="返回" enabled="true" visible="true" x="0" y="20" width="79" height="44"/>
+              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="安全中心" name="安全中心" label="安全中心" enabled="true" visible="true" x="123" y="20" width="74" height="44"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="AUButton_onClicked:" label="反馈" enabled="true" visible="true" x="257" y="20" width="63" height="44"/>
+            </XCUIElementTypeOther>
+            <XCUIElementTypeTable type="XCUIElementTypeTable" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+              <XCUIElementTypeImage type="XCUIElementTypeImage" name="AccountSecurity.bundle/sc_banner_bg.jpg" enabled="true" visible="false" x="-28" y="20" width="376" height="220"/>
+              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="安全守护 · 无忧支付" name="安全守护 · 无忧支付" label="安全守护 · 无忧支付" enabled="true" visible="true" x="0" y="184" width="320" height="23"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIButton_safetyInsurance" label="享受高达100万的资金保障 >" enabled="true" visible="true" x="0" y="210" width="320" height="19"/>
+              <XCUIElementTypeOther type="XCUIElementTypeOther" name="安全设置" enabled="true" visible="true" x="0" y="240" width="320" height="50">
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="安全设置" name="安全设置" label="安全设置" enabled="true" visible="true" x="125" y="254" width="70" height="22"/>
+              </XCUIElementTypeOther>
+              <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="290" width="320" height="60">
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="设置后可保护隐私信息" name="设置后可保护隐私信息" label="设置后可保护隐私信息" enabled="true" visible="true" x="67" y="321" width="162" height="18"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="未设置" name="未设置" label="未设置" enabled="true" visible="true" x="238" y="310" width="49" height="20"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="290" width="320" height="1"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="指纹/手势解锁" name="指纹/手势解锁" label="指纹/手势解锁" enabled="true" visible="true" x="67" y="301" width="162" height="21"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="16" y="349" width="1304" height="1"/>
+                <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIButton__accessoryButtonAction:" label="更多信息" enabled="false" visible="true" x="297" y="313" width="8" height="13"/>
+              </XCUIElementTypeCell>
+              <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="350" width="320" height="60">
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="开通后可刷脸登录" name="开通后可刷脸登录" label="开通后可刷脸登录" enabled="true" visible="true" x="67" y="381" width="162" height="18"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="已开通" name="已开通" label="已开通" enabled="true" visible="true" x="238" y="370" width="49" height="20"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="刷脸" name="刷脸" label="刷脸" enabled="true" visible="true" x="67" y="361" width="162" height="21"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="16" y="409" width="1304" height="1"/>
+                <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIButton__accessoryButtonAction:" label="更多信息" enabled="false" visible="true" x="297" y="373" width="8" height="13"/>
+              </XCUIElementTypeCell>
+              <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="410" width="320" height="77">
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="可提升单日余额支付额度" name="可提升单日余额支付额度" label="可提升单日余额支付额度" enabled="true" visible="true" x="67" y="441" width="162" height="35"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="未安装" name="未安装" label="未安装" enabled="true" visible="true" x="238" y="438" width="49" height="20"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="数字证书" name="数字证书" label="数字证书" enabled="true" visible="true" x="67" y="421" width="162" height="21"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="16" y="486" width="1304" height="1"/>
+                <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIButton__accessoryButtonAction:" label="更多信息" enabled="false" visible="true" x="297" y="442" width="8" height="13"/>
+              </XCUIElementTypeCell>
+              <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="486" width="320" height="78">
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="通过声音验证，保护账号安全" name="通过声音验证，保护账号安全" label="通过声音验证，保护账号安全" enabled="true" visible="true" x="67" y="518" width="162" height="34"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="未开启" name="未开启" label="未开启" enabled="true" visible="true" x="238" y="515" width="49" height="20"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="声音锁" name="声音锁" label="声音锁" enabled="true" visible="true" x="67" y="498" width="162" height="21"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="562" width="320" height="2"/>
+                <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIButton__accessoryButtonAction:" label="更多信息" enabled="false" visible="true" x="297" y="518" width="8" height="14"/>
+              </XCUIElementTypeCell>
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="563" width="320" height="1"/>
+              <XCUIElementTypeOther type="XCUIElementTypeOther" name="遇到问题" enabled="true" visible="false" x="0" y="563" width="320" height="51">
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="遇到问题" name="遇到问题" label="遇到问题" enabled="true" visible="false" x="125" y="578" width="70" height="21"/>
+              </XCUIElementTypeOther>
+              <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="613" width="320" height="159">
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="挂失账号" name="挂失账号" label="挂失账号" enabled="true" visible="false" x="0" y="20" width="107" height="20"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="解除账号限制" name="解除账号限制" label="解除账号限制" enabled="true" visible="false" x="0" y="20" width="107" height="20"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="永久注销账号" name="永久注销账号" label="永久注销账号" enabled="true" visible="false" x="0" y="20" width="107" height="20"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="挂失账号" name="挂失账号" label="挂失账号" enabled="true" visible="false" x="0" y="20" width="107" height="20"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="解除账号限制" name="解除账号限制" label="解除账号限制" enabled="true" visible="false" x="0" y="20" width="107" height="20"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="永久注销账号" name="永久注销账号" label="永久注销账号" enabled="true" visible="false" x="0" y="20" width="107" height="20"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="挂失账号" name="挂失账号" label="挂失账号" enabled="true" visible="false" x="0" y="20" width="107" height="20"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="解除账号限制" name="解除账号限制" label="解除账号限制" enabled="true" visible="false" x="0" y="20" width="107" height="20"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="永久注销账号" name="永久注销账号" label="永久注销账号" enabled="true" visible="false" x="0" y="20" width="107" height="20"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="挂失账号" name="挂失账号" label="挂失账号" enabled="true" visible="false" x="0" y="20" width="107" height="20"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="解除账号限制" name="解除账号限制" label="解除账号限制" enabled="true" visible="false" x="0" y="20" width="107" height="20"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="永久注销账号" name="永久注销账号" label="永久注销账号" enabled="true" visible="false" x="0" y="20" width="107" height="20"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="手机丢失或怀疑账号被盗，可申请挂失" name="手机丢失或怀疑账号被盗，可申请挂失" label="手机丢失或怀疑账号被盗，可申请挂失" enabled="true" visible="false" x="0" y="20" width="79" height="50"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="20" width="1" height="118"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="当支付／登录功能被限制时，可申请解除" name="当支付／登录功能被限制时，可申请解除" label="当支付／登录功能被限制时，可申请解除" enabled="true" visible="false" x="0" y="20" width="79" height="50"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="20" width="1" height="118"/>
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="注销后账号信息将无法恢复，请谨慎操作" name="注销后账号信息将无法恢复，请谨慎操作" label="注销后账号信息将无法恢复，请谨慎操作" enabled="true" visible="false" x="0" y="20" width="79" height="50"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="20" width="320" height="1"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="20" width="320" height="1"/>
+              </XCUIElementTypeCell>
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="613" width="320" height="1"/>
+              <XCUIElementTypeButton type="XCUIElementTypeButton" name="UIButton_otherQuestion" label="其他更多问题" enabled="true" visible="false" x="0" y="801" width="320" height="21"/>
+            </XCUIElementTypeTable>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="568">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="568" width="320" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="320" height="568">
+    <XCUIElementTypeStatusBar type="XCUIElementTypeStatusBar" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="320" height="20"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="320" height="20">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="无 SIM 卡" label="无 SIM 卡" enabled="true" visible="true" x="6" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" value="SSID" name="3 格（共 3 格 Wi-Fi 信号）" label="3 格（共 3 格 Wi-Fi 信号）" enabled="true" visible="true" x="64" y="0" width="15" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="下午3:58" label="下午3:58" enabled="true" visible="true" x="136" y="0" width="53" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="方向已锁定" label="方向已锁定" enabled="true" visible="true" x="215" y="0" width="12" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="蓝牙已连接" label="蓝牙已连接" enabled="true" visible="true" x="233" y="0" width="7" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%, 正在充电" label="电池电量：100%, 正在充电" enabled="true" visible="true" x="246" y="0" width="69" height="20"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" name="电池电量：100%" label="电池电量：100%" enabled="true" visible="false" x="246" y="0" width="31" height="20"/>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeStatusBar>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>

@@ -1,0 +1,4 @@
+1 LinearLayout 2
+2 LinearLayout 3|4
+3 TextView
+4 TextView
